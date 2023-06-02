@@ -1662,5 +1662,6 @@ input, select, textarea {
 
 #intro {
 	display: flex;
+	flex-direction: column;
 	flex-wrap: wrap;
 }
