@@ -1660,7 +1660,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-.skills-list {
+#intro {
 	display: flex;
 	flex-wrap: wrap;
 }
